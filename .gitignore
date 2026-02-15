@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies (uncomment if you add Node/Python/etc.)
+# node_modules/
+# __pycache__/
+# venv/
+# .env
